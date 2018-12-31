@@ -2,7 +2,6 @@ from tkinter import *
 root = Tk()
 root.geometry('500x500')
 root.title("Registration Form")
-
 #Heading
 label_0=Label(root, text="Registration form",width=20,font=("bold",20))
 label_0.place(x=90,y=53)
